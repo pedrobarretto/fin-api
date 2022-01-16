@@ -1,4 +1,4 @@
-## FinApi - Financeia
+## FinApi - API Financeira (Fictícia)
 ### Requisitos
 
 - [X] Deve ser possível criar umma conta
